@@ -1,9 +1,10 @@
 
-# 🌞 Big Data Anomaly Detection in U.S. Solar Power Output
 
-## 📌 Overview
+
+## Introduction
 This project analyzes hourly solar power generation data from California ISO (CALISO) to detect abnormal patterns using both statistical and machine learning methods. The primary goal is to improve data quality monitoring, energy forecasting, and operational decision-making in the renewable energy sector.
 
+# 🌞 Big Data Anomaly Detection in U.S. Solar Power Output
 ---
 
 ## 🧰 Tools & Technologies
